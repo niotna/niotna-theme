@@ -6,7 +6,7 @@
 oh my zsh theme. mix duellj with git branch
 
 ```BASH
-git clone --depth 1 --no-checkout git@github.com:niotna/niotna-theme.git && mv niotna-theme/niotna.zsh-theme ~/.oh-my-zsh/themes/niotna-theme/ && rm -rf niotna-theme && sed -i 's/ZSH_THEME="[^\"]*"/ZSH_THEME="niotna"/' ~/.zshrc && source ~/.zshrc
+git clone --depth 1 --no-checkout git@github.com:niotna/niotna-theme.git && mv niotna-theme/niotna.zsh-theme ~/.oh-my-zsh/themes/niotna-theme && rm -rf niotna.zsh-theme && sed -i 's/ZSH_THEME="[^\"]*"/ZSH_THEME="niotna"/' ~/.zshrc && source ~/.zshrc
 ```
 
 ## Exemple
